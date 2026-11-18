@@ -1,50 +1,24 @@
-Image Size: 960x480
+# ✦ My Little Corner of the Web
 
-Features:
+Built with [Astro](https://astro.build).
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+---
 
-## 🚀 Project Structure
+### 📖 The Narrative
 
-Inside of your Astro project, you'll see the following folders and files:
+I don't just post updates; I tell stories. Here is how the site flows:
 
-```text
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+* **Home** — A story I'm currently telling.
+* **About** — My story so far.
+* **Posts** — Technical documentation, notes, and brain dumps.
+* **Resume** — What I know and what I can build.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### ⚡ What I Care About
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+* **System Programming** — Building things close to the metal.
+* **Art & Character Illustration** — Bringing forms, lines, and figures to life.
+* **Video Games** — Interactive worlds and design.
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+---
 
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
+*I fear men who write "hello, world!" 1000 times*
